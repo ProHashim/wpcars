@@ -1,0 +1,16 @@
+{
+    "name": "hashim/wpcars",
+    "description": "My test package",
+    "autoload": {
+        "psr-4": {
+            "Hashim\\Wpcars\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "prohashim",
+            "email": "prohashim4e@gmail.com"
+        }
+    ],
+    "require": {}
+}
