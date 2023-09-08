@@ -18,7 +18,16 @@
 				}
 			]
 		},
-		"useRootPaddingAwareAlignments": true
+		"useRootPaddingAwareAlignments": true,
+		"color": {
+			"palette": [
+				{
+					"name": "BG color",
+					"slug": "bgcolor",
+					"color": "#efefef"
+				}
+			]
+		}
 	},
 	"templateParts": [
 		{
